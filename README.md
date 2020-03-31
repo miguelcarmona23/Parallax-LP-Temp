@@ -1,6 +1,6 @@
 # Parallax-LP-Temp
 
-A landing page that uses Parallax
+A landing page that uses Parallax Scrolling.
 
 ## Built With
 
